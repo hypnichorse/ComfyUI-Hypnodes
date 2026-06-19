@@ -1,5 +1,5 @@
 [project]
-name = "comfyui-hypnodes"
+name = "Hypnodes"
 description = "A suite of custom nodes for managing character databases, prompt injection, and advanced file saving."
 version = "1.0.1"
 dependencies = [
