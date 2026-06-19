@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-hypnodes"
+description = "A suite of custom nodes for managing character databases, prompt injection, and advanced file saving."
+version = "1.0.1"
+dependencies = [
+    "numpy",
+    "pillow"
+]
+
+[project.urls]
+Repository = "https://github.com/hypnichorse/ComfyUI-Hypnodes"
+
+[tool.comfy]
+PublisherId = "hypnichorse"
+DisplayName = "Hypnodes"
+Icon = "🎲"
