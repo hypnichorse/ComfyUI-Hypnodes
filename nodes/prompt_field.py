@@ -16,5 +16,4 @@ class HN_PromptField:
     CATEGORY = "Hypnodes/Library"
 
     def pass_through(self, prompt, incoming=None):
-        # If a wire is connected, use that value, otherwise use the widget text
-        return (incoming if incoming is not None else prompt,)
+        return (prompt,)
