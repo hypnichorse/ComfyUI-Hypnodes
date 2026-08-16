@@ -22,8 +22,8 @@ Tools for building and accessing your personal character vault.
 - **HN_IntSwitch**: A simple, robust switch for routing integer values based on logic gates.
 
 ## 🛠️ Installation
-1. Open Git Bash in your `ComfyUI/custom_nodes/` folder.
-2. Run `git clone https://github.com/YOUR_USERNAME/ComfyUI-Hypnodes.git`
+1. Install [ComfyUI manager](https://github.com/comfy-org/ComfyUI-Manager) if you haven't already
+2. Click on the blue manager button -> Manage custom nodes -> search for hypnodes and install
 3. Restart ComfyUI.
 
 
